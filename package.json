@@ -1,0 +1,26 @@
+{
+  "name": "year-now",
+  "version": "1.0.0",
+  "description": "Requirable current year",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbrhutchens/year-now.git"
+  },
+  "keywords": [
+    "date",
+    "year"
+  ],
+  "author": "Stephen Hutchens <sbrhutchens@aol.com> (http://stephenhutchens.com)",
+  "devDependencies": {
+    "tap": "^5.7.2"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sbrhutchens/year-now/issues"
+  },
+  "homepage": "https://github.com/sbrhutchens/year-now#readme"
+}
